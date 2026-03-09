@@ -38,6 +38,3 @@ The analysis focuses on:
 ## Project Goal
 The goal of this project is to demonstrate data analysis skills and the ability to turn raw data into meaningful insights.
 
-## Author
-Ahmed Soliman  
-Junior Data Analyst
