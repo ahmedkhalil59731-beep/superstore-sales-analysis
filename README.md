@@ -139,8 +139,7 @@ The Tableau dashboard was created to provide an interactive view of:
 
 ### Dashboard Preview
 
-![Dashboard](images/dashboard.png)
-
+![Dashboard](Dashboard.png)
 ---
 
 ## 💡 Business Recommendations
