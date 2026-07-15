@@ -185,3 +185,25 @@ Superstore-Sales-Analysis
 Digital Egypt Pioneers Initiative (DEPI)
 
 This project demonstrates how data analysis transforms raw business data into actionable business decisions.
+
+----
+
+# 📊 Interactive Tableau Dashboard
+
+An interactive dashboard built with Tableau Public to visualize Superstore sales performance.
+
+### Dashboard Includes
+- 💰 Total Sales
+- 📦 Total Orders
+- 👥 Total Customers
+- 📊 Sales by Category
+- 🌍 Sales by Region
+- 📈 Monthly Sales Trend
+- 🎛️ Interactive Region Filter
+
+### Live Dashboard
+👉 https://public.tableau.com/app/profile/ahmed.soliman5886/viz/SuperstoreSalesDashboard_17841296256550/Dashboard1?publish=yes
+
+### Tools Used
+- Tableau Public
+- CSV Dataset
